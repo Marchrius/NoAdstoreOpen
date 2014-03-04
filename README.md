@@ -1,7 +1,7 @@
 NoAdstoreOpen
 =============
 
-Prevent ads from force-opening the AppStore.
+Prevent any App ads from force-opening the AppStore
 
 This fork allow to user to chice the action.
 
